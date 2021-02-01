@@ -99,6 +99,18 @@ st.markdown(html_bible,unsafe_allow_html=True)
 
 st.write("this is version of this BIBLE-BOT which you can use this for topics like Forgiveness,Depression,Failure,salvation,hope and faith,prayers from Bible 😊")
 
+def rerun():
+    raise st.script_runner.RerunException(st.script_request_queue.RerunData(None))
+
+mutable_object = user_input_list()
+
+st.subheader("as it is version one i request to click this below button befor you start conversation with bible 👇")
+
+if st.button("clear all cach to start the Conversation"):
+    mutable_object.clear()
+    rerun()
+
+
 st.subheader("You can start your conversation with Bible")
 user_input = get_text()
 result = chatpost(user_input)
