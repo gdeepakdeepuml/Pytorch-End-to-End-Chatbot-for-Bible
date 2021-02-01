@@ -1,0 +1,197 @@
+{
+    "intents": [
+      {
+        "tag": "Forgiveness",
+        "patterns": [
+          "Hi, what dose bible says about Forgiveness ?",
+          "Hey i need forgiveness from god",
+          "how can i get Forgiveness from god",
+          "what is Forgiveness by god",
+          "by what i can get Forgiveness",
+          "pray for me to get Forgiveness",
+          "bible about Forgiveness"
+        ],
+        "responses": [
+          "well .. bible says according to \n Ephesians 4:32 \n say's \n 'Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you  \n so forgive and you will be Forgiveness' 😊",
+          "well .. bible says according to \n Matthew 6:14 \n say's \n 'For if you forgive other people when they sin against you, your heavenly Father will also forgive you.' \n so forgive and you will be Forgiveness 😊",
+          "well .. bible says according to \n Luke 6:37 \n say's \n 'Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.' \n so forgive and you will be Forgiveness 😊",
+          "well .. bible says according to \n 1 John 1:9 \n say's \n 'If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.' \n so pray for it you willl get it 😊"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye","ok bye"],
+        "responses": [
+          "stay home stay safe, keep praising the god",
+          "take care !",
+          "See you later, thanks for visiting,take care!!",
+          "Have a nice day,take care!!",
+          "Bye! Come back again soon if you need any help ."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "use",
+        "patterns": [
+          "Which can you do?",
+          "What kinds of help you can do?",
+          "how can you help me?",
+          "help me?",
+          "need help!!",
+          "what is your perpose?",
+          "what you can help me?",
+          "how can you help?"
+        ],
+        "responses": [
+          "1. hi ! i am bible .. i can help you to know anything from the Book of bible , We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith",
+          "2. hi ! i am bible .. i can help you to know anything from the book of bible , , We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith"
+        ]
+      },
+      {
+        "tag": "whatis",
+        "patterns": [
+          "What is bible",
+          "What is book bible",
+          "Why bible",
+          "why jesus",
+          "who worte Bible",
+          "i hate Bible",
+          "i Don't read Bible"
+        ],
+        "responses": [
+          "1. Bible is also called as word of god,The book sacred to Christians (see also Christian), which they consider to be the inspired word of God. The Bible includes the Old Testament, which contains the sacred books of the Jews (see also Jews), and the New Testament, which begins with the birth of Jesus. \n\n Reading the Bible teaches us to imitate God. as it is there in \n\n (Ephesians 5:1) \n\n “Follow God’s example, therefore, as dearly loved children” \n\n Reading the Bible helps us discover our next step. as it is there in  \n\n Psalm 119:105 \n\n “Your word is a lamp for my feet, a light on my path” \n\nReading the Bible keeps us away from sin .. as it is there in \n\n Psalm 119:11 \n\n “I have hidden your word in my heart that I might not sin against you” .. so read bible 😊",
+          "2. Bible is also called as word of god,The book sacred to Christians (see also Christian), which they consider to be the inspired word of God. The Bible includes the Old Testament, which contains the sacred books of the Jews (see also Jews), and the New Testament, which begins with the birth of Jesus. \n\n Reading the Bible teaches us to imitate God. as it is there in \n\n (Ephesians 5:1) \n\n “Follow God’s example, therefore, as dearly loved children” \n\n Reading the Bible helps us discover our next step. as it is there in  \n\n Psalm 119:105 \n\n “Your word is a lamp for my feet, a light on my path” \n\nReading the Bible keeps us away from sin .. as it is there in \n\n Psalm 119:11 \n\n “I have hidden your word in my heart that I might not sin against you” .. so read bible 😊"
+        ]
+      },
+      {
+        "tag": "jesus",
+        "patterns": [
+          "who is jesus christ",
+          "what is god",
+          "why we need god",
+          "why do we need god",
+          "who is god",
+          "bible about god",
+          "why should i delive god",
+          "i don't belive god"
+        ],
+        "responses": [
+          "1. Our Heavenly Father sent His Son, Jesus Christ, to take upon Him the sins of everyone who would live on the earth so we could be forgiven. This sacrifice on our behalf was possible because of Jesus’s divinity and His perfect life. \n\n Jesus was a master teacher and a servant to all. But He was infinitely more than that. When He asked the Apostle Peter, “Whom say ye that I am?” Peter answered, “Thou art the Christ, the Son of the living God” (Matthew 16:15–16). \n\n Jesus is our loving Savior. He lived to teach us, and He suffered and died to save us from sin and death. Because of Him, we can be forgiven, we can overcome challenges, and we can live with God again someday.",
+          "2. Our Heavenly Father sent His Son, Jesus Christ, to take upon Him the sins of everyone who would live on the earth so we could be forgiven. This sacrifice on our behalf was possible because of Jesus’s divinity and His perfect life. \n\n Jesus was a master teacher and a servant to all. But He was infinitely more than that. When He asked the Apostle Peter, “Whom say ye that I am?” Peter answered, “Thou art the Christ, the Son of the living God” (Matthew 16:15–16). \n\n Jesus is our loving Savior. He lived to teach us, and He suffered and died to save us from sin and death. Because of Him, we can be forgiven, we can overcome challenges, and we can live with God again someday." 
+        ]
+      },
+      {
+        "tag": "Depression",
+        "patterns": [
+          "i feel so depressed, can you help me ",
+          "what bible say's about depression",
+          "help me i am in depression",
+          "i am so Depressed",
+          "help me",
+          "i need gods help please",
+          "bible verses about Depression"
+        ],
+        "responses": [
+          "1. well.. here god's word for you \n as it is there in saying's..\n\n Deuteronomy 31:8 \n\n “The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.”\n and the Good News is here While depression can make you feel lonely, God is still there with you. And he’s not going anywhere.",
+          "2. well.. here god's word for you \n as it is there in saying's..\n\n Deuteronomy 31:8 \n\n “The Lord himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged.”\n and the Good News is here While depression can make you feel lonely, God is still there with you. And he’s not going anywhere."
+        ]
+      },
+      {
+        "tag": "Failure",
+        "patterns": [
+          "i feel like i am a Failure",
+          "i have failed",
+          "i am a failure",
+          "i am afraid of failure",
+          "i have fear of failure",
+          "how can i overcome the fear of failure",
+          "bible verses about Failures"
+        ],
+        "responses": [
+          "1. That fear you are feeling is holding you back from accomplishing great things. \n\n The tools that God gives us – power, love, and self discipline – help move you forward while fear keeps you stuck (and sometimes even moving backward, farther away from your goals!). \n\n  well here bible say's that in  \n Psalm 73:26 – Remember the source of your strength \n\n “My flesh and my heart may fail, but God is the strength of my heart and my portion forever”. \n It’s easy to be afraid of failure when we are leaning on our own power. We certainly aren’t strong enough to face big, difficult things on our own! \n God is the strength of your heart and your portion.",
+          "2. That fear you are feeling is holding you back from accomplishing great things. \n\n The tools that God gives us – power, love, and self discipline – help move you forward while fear keeps you stuck (and sometimes even moving backward, farther away from your goals!). \n\n  well here bible say's that in  \n Psalm 73:26 – Remember the source of your strength \n\n “My flesh and my heart may fail, but God is the strength of my heart and my portion forever”. \n It’s easy to be afraid of failure when we are leaning on our own power. We certainly aren’t strong enough to face big, difficult things on our own! \n God is the strength of your heart and your portion."
+
+        ]
+      },
+      {
+        "tag": "salvation",
+        "patterns": [
+          "what is Salvation",
+          "how to get salvation",
+          "will god give salvation to me",
+          "how can i get salvation",
+          "i need salvation god help me",
+          "bible about salvation"
+        ],
+        "responses": [
+          "1. Salvation is New Life in christ\n\n Because of Christ, believers are granted salvation from sin and the promise of eternal life. What hope we have in the life, death, and resurrection of Jesus! Be encouraged by reading the following Scriptures with commentary from the \n\n as it is there in .. \n Romans 6:23 \n\n “For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.“ \n\n Those who give themselves to sin will die both physically and eternally, whereas Christians are assured of eternal life. Wages implies that the punishment for sin is what one has earned and what one deserves.",
+          "2. Salvation is New Life in christ\n\n Because of Christ, believers are granted salvation from sin and the promise of eternal life. What hope we have in the life, death, and resurrection of Jesus! Be encouraged by reading the following Scriptures with commentary from the \n\n as it is there in .. \n Romans 6:23 \n\n “For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.“ \n\n Those who give themselves to sin will die both physically and eternally, whereas Christians are assured of eternal life. Wages implies that the punishment for sin is what one has earned and what one deserves."
+          
+        ]
+      },
+      {
+        "tag": "Hope",
+        "patterns": [
+          "what is hope in jesus",
+          "what is hope according to bible",
+          "i need hope and faith",
+          "how to get hope and faith on life",
+          "help to get hope and faith",
+          "bible about hope and faith"
+        ],
+        "responses": [
+          "1. We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith",
+          "2. We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith"
+        ]
+      },
+      {
+        "tag": "creater",
+        "patterns": [
+          "who created you?",
+          "who's cration are you",
+          "who made you",
+          "who did you"
+        ],
+        "responses": [
+          "Man of God \n Deepak :-)",
+          "lord's servent \n Deepak :-)"
+        ]
+      },
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "1. hey there hi  ! i am bible .. i can help you to know anything from the Book of bible , We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith",
+          "2. hey there hi  ! i am bible .. i can help you to know anything from the book of bible , , We can hold on during hard times because we have been given both eternal and real hope through Jesus Christ! His death and resurrection not only offers hope for our future in heaven but a very real and present hope when He promised us peace! May you find encouragement and inspiration for your soul from these scripture quotes on hope and faith! \n\n bible say's \n\n in Hebrews 11:1 \n\n Now faith is confidence in what we hope for and assurance about what we do not see. \n\n  god is working on you ! and all it need is hope and faith"
+        ]
+      },
+      {
+        "tag": "pray",
+        "patterns": [
+          "Hi, can you please pray for me",
+          "Hey pray for me",
+          "please pray for me",
+          "i want pray from you",
+          "i need god's forgiveness can you please pray for me",
+          "i need prayes plese pray"
+        ],
+        "responses": [
+         "Lord, my heart is broken but You are near. My spirit is crushed, but You are my rescuer. Your Word is my hope. It revives me and comforts me in especially now. My soul faints, but you are the breath of life within me. You are my help, the One who sustains me. I am weak but You are strong. You bless those who mourn, and I trust You to bless me and my family with all that we need. You will rescue me from this dark cloud of despair because You delight in me. In Jesus’ Name, Amen.",
+         "Holy Lord, Thank You for grace. Please help me move beyond the hurdles that trip me up and give me the strength and wisdom to look up and see the hope I run toward in Christ. In Jesus’ Name, Amen.",
+         "pray for lord like Father, today I ask forgiveness of all the negative and harmful words I have spoken about myself. I do not want to abuse myself in such a way again. Transform my thoughts and let me understand how marvelously you made me. Change my habits so I use my tongue to speak hope and favor upon my life. In Jesus' name, Amen. ",
+         "pray for lord like Father, I have to thank You for looking beyond my faults and for loving me unconditionally. Forgive me when I fail to love others in the same way. Give me eyes to see the needs of the difficult people in my life, and show me how to meet those needs in a way that pleases You. In Jesus’ Name, Amen."
+        ]
+      }
+    ]
+  }
